@@ -1,0 +1,23 @@
+{
+  "name": "Activity Tracker App",
+  "short_name": "Activity Tracker",
+  "description": "Track your daily activities",
+  "start_url": "/Activity-Tracker-App/",
+  "scope": "/Activity-Tracker-App/",
+  "display": "standalone",
+  "background_color": "#eef2ff",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "/Activity-Tracker-App/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/Activity-Tracker-App/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
