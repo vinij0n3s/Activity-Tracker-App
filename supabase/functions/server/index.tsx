@@ -198,6 +198,8 @@ app.get("/make-server-7c33a2a7/activity", async (c) => {
     }, 500);
   }
 });
+//Just to test how this works
+
 
 // Save activity data
 app.post("/make-server-7c33a2a7/activity", async (c) => {
