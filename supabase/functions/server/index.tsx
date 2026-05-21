@@ -203,7 +203,7 @@ app.get("/make-server-7c33a2a7/activity", async (c) => {
 
 // Save activity data
 app.post("/make-server-7c33a2a7/activity", async (c) => {
-  try {
+  tryb {
     const body = await c.req.json();
     const { goal, gymCount, cardioCount } = body;
 
